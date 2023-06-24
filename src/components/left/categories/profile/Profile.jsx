@@ -15,9 +15,9 @@ const Profile = () => {
         activities with altruistic purposes.
       </p>
       <ul className="mobile:mt-[3px] tablet:mt-1 laptop:mt-[6px]">
-        <li>GPA: 9.67/10</li>
+        <li>GPA: 9.74/10</li>
         <li>SAT: soon</li>
-        <li>CAE: soon</li>
+        <li>CAE: grade A and level C2</li>
         <li>IC3: Pass</li>
       </ul>
     </div>
