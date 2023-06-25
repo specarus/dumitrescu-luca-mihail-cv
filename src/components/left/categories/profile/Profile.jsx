@@ -17,7 +17,7 @@ const Profile = () => {
       <ul className="mobile:mt-[3px] tablet:mt-1 laptop:mt-[6px]">
         <li>GPA: 9.74/10</li>
         <li>SAT: soon</li>
-        <li>CAE: grade A and level C2</li>
+        <li>CAE: grade A (C2 level)</li>
         <li>IC3: Pass</li>
       </ul>
     </div>
